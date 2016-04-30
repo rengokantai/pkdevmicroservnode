@@ -1,5 +1,16 @@
 #### pkdevmicroservnode
 
+#####7 Monitering
+register
+```
+https://keymetrics.io/pricing/
+```
+port 80:43554
+```
+pm2 install pm2-server-monit
+```
+
+
 #####8 Deploying
 
 ######Deployments with PM2
